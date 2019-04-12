@@ -1,0 +1,13 @@
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.exe.config
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.csprojResolveAssemblyReference.cache
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.exe
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.pdb
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.exe
+c:\users\stormi\documents\visual studio 2015\Projects\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.pdb
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.exe.config
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.exe
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\bin\Debug\SpragueRegex.pdb
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.exe
+C:\Users\storm\Desktop\Code\SpragueRegex\SpragueRegex\obj\Debug\SpragueRegex.pdb
